@@ -1,4 +1,3 @@
-## About me :wave:
 ##   :wave: About me 
 
 Hi! My name is Emi, and I’m currently studying the Foundations program at Holberton School.
