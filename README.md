@@ -12,8 +12,6 @@ My goal is to build a career in cybersecurity, where I can contribute to creatin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emi-H106&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Emi-H106&theme=darkhub)
 
 ## 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emi-hatano-07a041358/)  
